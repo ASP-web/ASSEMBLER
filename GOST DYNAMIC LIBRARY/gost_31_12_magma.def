@@ -1,0 +1,4 @@
+LIBRARY gost_31_12_magma
+EXPORTS 
+	_GOST_encr	@1
+	_GOST_decr	@2
